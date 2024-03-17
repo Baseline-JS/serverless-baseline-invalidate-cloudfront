@@ -1,6 +1,6 @@
 # serverless-baseline-invalidate-cloudfront
 
-Serverless plugin that allows you to invalidate Cloudfront Cache securely, addressing previous security concerns with the vm2 dependency. Based on the original package `serverless-invalidate-cloudfront`.
+Serverless plugin that allows you to invalidate Cloudfront Cache securely, addressing previous security concerns with the vm2 dependency. Based on the original package `serverless-cloudfront-invalidate`.
 
 ## Install
 
